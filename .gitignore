@@ -4,6 +4,10 @@ dales_las/*
 
 # Pycharm files
 .idea/
+__pycache__/
 
 # Virtual Enviorment
 venv/
+
+# LAS files
+*.las
