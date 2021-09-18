@@ -1,7 +1,8 @@
 import argparse
 
 import laspy
-from dales_classes import DalesClasses
+
+from dales_aux.dales_classes import DalesClasses
 
 def parse_input_arguments():
     # Create the parser
