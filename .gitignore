@@ -4,3 +4,6 @@ dales_las/*
 
 # Pycharm files
 .idea/
+
+# Virtual Enviorment
+venv/
