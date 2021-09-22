@@ -6,8 +6,5 @@ dales_las/*
 .idea/
 __pycache__/
 
-# Virtual Enviorment
-venv/
-
 # LAS files
 *.las
